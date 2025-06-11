@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/tictactoe.dir/src/main.cpp.o CMakeFiles/tictactoe.dir/src/glad.c.o -o tictactoe  /usr/lib/x86_64-linux-gnu/libglfw.so.3.3 /usr/lib/x86_64-linux-gnu/libOpenGL.so /usr/lib/x86_64-linux-gnu/libGLX.so 

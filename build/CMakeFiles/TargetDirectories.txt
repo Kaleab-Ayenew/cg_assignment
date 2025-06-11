@@ -1,0 +1,7 @@
+/home/kalish/Documents/projects/cg_assignment/TicTacToe/build/CMakeFiles/tictactoe.dir
+/home/kalish/Documents/projects/cg_assignment/TicTacToe/build/CMakeFiles/edit_cache.dir
+/home/kalish/Documents/projects/cg_assignment/TicTacToe/build/CMakeFiles/rebuild_cache.dir
+/home/kalish/Documents/projects/cg_assignment/TicTacToe/build/_deps/glm-build/CMakeFiles/edit_cache.dir
+/home/kalish/Documents/projects/cg_assignment/TicTacToe/build/_deps/glm-build/CMakeFiles/rebuild_cache.dir
+/home/kalish/Documents/projects/cg_assignment/TicTacToe/build/_deps/glm-build/glm/CMakeFiles/edit_cache.dir
+/home/kalish/Documents/projects/cg_assignment/TicTacToe/build/_deps/glm-build/glm/CMakeFiles/rebuild_cache.dir
